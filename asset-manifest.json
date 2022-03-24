@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactDesign1/static/css/main.d8a005cd.chunk.css",
+    "main.js": "/ReactDesign1/static/js/main.5115fc19.chunk.js",
+    "main.js.map": "/ReactDesign1/static/js/main.5115fc19.chunk.js.map",
+    "runtime-main.js": "/ReactDesign1/static/js/runtime-main.bb4c06cb.js",
+    "runtime-main.js.map": "/ReactDesign1/static/js/runtime-main.bb4c06cb.js.map",
+    "static/js/2.fafafcca.chunk.js": "/ReactDesign1/static/js/2.fafafcca.chunk.js",
+    "static/js/2.fafafcca.chunk.js.map": "/ReactDesign1/static/js/2.fafafcca.chunk.js.map",
+    "index.html": "/ReactDesign1/index.html",
+    "static/css/main.d8a005cd.chunk.css.map": "/ReactDesign1/static/css/main.d8a005cd.chunk.css.map",
+    "static/js/2.fafafcca.chunk.js.LICENSE.txt": "/ReactDesign1/static/js/2.fafafcca.chunk.js.LICENSE.txt",
+    "static/media/svg-1.1061437b.svg": "/ReactDesign1/static/media/svg-1.1061437b.svg",
+    "static/media/svg-2.df068049.svg": "/ReactDesign1/static/media/svg-2.df068049.svg",
+    "static/media/svg-3.870b1620.svg": "/ReactDesign1/static/media/svg-3.870b1620.svg",
+    "static/media/svg-4.77358e0f.svg": "/ReactDesign1/static/media/svg-4.77358e0f.svg",
+    "static/media/svg-5.5bbd23cf.svg": "/ReactDesign1/static/media/svg-5.5bbd23cf.svg",
+    "static/media/svg-6.e5c0871d.svg": "/ReactDesign1/static/media/svg-6.e5c0871d.svg",
+    "static/media/video.910e8a45.mp4": "/ReactDesign1/static/media/video.910e8a45.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb4c06cb.js",
+    "static/js/2.fafafcca.chunk.js",
+    "static/css/main.d8a005cd.chunk.css",
+    "static/js/main.5115fc19.chunk.js"
+  ]
+}
